@@ -1,0 +1,4 @@
+pickel
+pandas
+numpy
+streamlit
