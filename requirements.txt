@@ -1,4 +1,1 @@
-pickel
-pandas
-numpy
 streamlit
